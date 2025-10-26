@@ -7,3 +7,6 @@ Initial hypothesis that the success rate of SpaceX launches is higher for smalle
 Overall, it can be said that the results suggest that improvements over time and careful planning around specific payload characteristics are key contributors to SpaceX’s increasing success rate in recent years. This knowledge could guide future launch preparations, helping SpaceX focus on the payload types and categories that are most aligned with mission success.
 
 However, it is important to acknowledge that this analysis may have limitations due to the relatively small dataset size and the limited timeframe of just 11 years. For a more comprehensive understanding, future analyses would benefit from an expanded dataset covering a broader period. Updating the dataset and re-evaluating these factors over an extended timeline would provide a clearer and potentially more reliable picture of the variables influencing SpaceX's mission success.
+
+
+<img width="1432" height="830" alt="Screenshot 2025-10-26 at 20 50 24" src="https://github.com/user-attachments/assets/bedad87b-0e7b-4677-b037-71e698712e70" />
